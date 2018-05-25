@@ -1,3 +1,4 @@
+# NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.
 ## 73xx Motion Controller Custom Device ##
 
 The **NI 73xx Motion Controller Custom Device** for NI VeriStand enables users to use NI 73xx motion control boards with NI VeriStand. Users can set the motion controller's operational mode to Absolute Position, Relative Position, and Velocity control for multiple motion boards and axes.  
